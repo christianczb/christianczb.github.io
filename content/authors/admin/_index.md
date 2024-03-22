@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Christian Zuluaga Bedoya
+title: Christian Zuluaga-Bedoya
 
 # Full name (for SEO)
 first_name: Christian
