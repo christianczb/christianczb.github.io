@@ -10,6 +10,8 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  mode: light
+  color: blue
 
 # SEO
 
@@ -45,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2024} Christian Zuluaga. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -57,7 +59,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: en-au
 
 # Site features
 
