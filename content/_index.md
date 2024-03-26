@@ -62,27 +62,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Officer
+          company: School of Chemical Engineering, The University of Queensland
+          company_url: 'https://chemeng.uq.edu.au/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: St Lucia, Queensland, Australia
+          date_start: '2023-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Understanding gas diffusion within agglomerated carbon nanoparticles for electrochemical and supercapacitors applications.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              Responsibilities include:
+              * Analysing carbon nanoparticle structures
+              * Describing adsorption of diverse gases into the nanoparticle assembly
+              * Computing diffusion coefficients of such gases through the nanoparticle assembly
+        - title: Teaching Assistant/Tutor 
+          company: School of Chemical Engineering, The University of Queensland
+          company_url: 'https://chemeng.uq.edu.au/'
+          company_logo: org-gc
+          location: St Lucia, Queensland, Australia
+          date_start: '2021-02-26'
+          date_end: '2023-11-15'
+          description: |2-
+             Tutoring core Chemical Engineering courses
+                Courses:
+                * CHEE3002/2040: Heat and Mass Transfer
+                * CHEE7113: Whole of Process Optimisation and Control
+                * CHEE3005: Reaction Engineering
+                * CHEE3007: Process Modelling and Control
     design:
       columns: '2'
   - block: accomplishments
