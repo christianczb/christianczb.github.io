@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
    url: https://uqevents.eventsair.com/isgtco2/
 
-#url_pdf: ''
+url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
