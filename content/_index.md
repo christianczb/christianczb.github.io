@@ -165,12 +165,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Get in touch with me:
       # Contact (add or remove contact options as necessary)
       email: zuluagabedoya@gmail.com
-      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: Andrew Liveris Building
         city: St Lucia 
         region: QLD
         postcode: '4072'
@@ -178,8 +177,8 @@ sections:
         country_code: AU
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '-27.4991584'
+        longitude: '153.0138975'  
       contact_links:
         - icon: twitter
           icon_pack: fab
