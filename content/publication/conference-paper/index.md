@@ -62,6 +62,8 @@ featured: false
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_slides: ''
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

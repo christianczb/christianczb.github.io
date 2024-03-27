@@ -36,8 +36,6 @@ abstract: Zeolite (MOF) nanomembranes exhibit high separation performances due t
 # Summary. An optional shortened abstract.
 summary: We study the effect of crystal thickness and framework flexibility on gas diffusion, by comparing a fully flexible system with a rigid-average structure of equivalent window size. Equilibrium Molecular Dynamics (EMD) simulations were used to study the transport of CO2 in ZIF-8 and CH4, H2 in TON nanosheets of different sizes. We also investigated adding polymer layers (6FDA-durene polyimide) on TON bare nanosheets to account for support/both-side coating effects on the excess resistance.
 
-tags: []
-
 # Display this page in the Featured widget?
 featured: true
 
@@ -46,11 +44,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 #
-#tags: 
-#- Zeolites
-#- Diffusion
-#- Nanosheet
-#- Adsorption
+tags: 
+- Zeolites
+- Diffusion
+- Nanosheet
+- Adsorption
 #
 # Display this page in the Featured widget?
 #featured: true
