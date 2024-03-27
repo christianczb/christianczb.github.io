@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Transport of light gases across single-crystal zeolite (MOF) nanomembranes: effect of size, flexibility, and polymer coating'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Prof. Suresh K. Bhatia
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-11-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,12 +28,11 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Zeolite (MOF) nanomembranes exhibit high separation performances due to their molecular sieving effect associated with precisely sized pores and tuneable frameworks, which makes them attractive for gas separation, carbon capture, and water treatment, among other applications [1]. Although pore characteristics of zeolites (MOFs) are well-defined, challenges pertaining to gas transport resistances within nanosized crystals remain unexplained. Empirical studies linked these transport hindrances to defects within the crystal formation process, resulting in pore obstructions and grain boundaries [2]. However, recent simulation-based investigations have uncovered nonuniform diffusivities and transport resistances persist even in nanometric-sized crystals with ideal surfaces. Although these resistances were initially ascribed to interfacial effects on the boundary layer [3], recent simulations attribute them to slow trajectories and an increased number of collisions within a region of developing flow known as entry length [4].
+We study the effect of crystal thickness and framework flexibility on gas diffusion, by comparing a fully flexible system with a rigid-average structure of equivalent window size. Equilibrium Molecular Dynamics (EMD) simulations were used to study the transport of CO2 in ZIF-8 and CH4, H2 in TON nanosheets of different sizes. We also investigated adding polymer layers (6FDA-durene polyimide) on TON bare nanosheets to account for support/both-side coating effects on the excess resistance.
+Transport is attenuated even in flexible thin nanosheets, despite having enhanced diffusivities compared to the rigid ones. An interplay between vibrating windows and kinetic effects on gas-wall collisions leads to increased diffusivity. Incorporating polymer layers into the nanosheets added extra internal barriers. Ideal selectivity is superior in the coated/supported at a particular crystal length. These results will aid in a better understanding of the transport resistances, guiding the fundamental design of ultrathin membranes for emerging sustainable applications.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
+tags: [Zeolites, diffusion, nanosheet, adsorption]
 
 # Display this page in the Featured widget?
 featured: true
@@ -41,16 +40,16 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+   url: https://uqevents.eventsair.com/isgtco2/
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_pdf: ''
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

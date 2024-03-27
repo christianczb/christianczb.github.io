@@ -53,12 +53,13 @@ sections:
           date_start: '2021-02-26'
           date_end: '2023-11-15'
           description: |2-
-             Tutoring core Chemical Engineering courses
-                Courses:
-                * CHEE3002/2040: Heat and Mass Transfer
-                * CHEE7113: Whole of Process Optimisation and Control
-                * CHEE3005: Reaction Engineering
-                * CHEE3007: Process Modelling and Control
+              Tutoring core Chemical Engineering courses
+              
+              Courses:
+              * CHEE3002/2040: Heat and Mass Transfer
+              * CHEE7113: Whole of Process Optimisation and Control
+              * CHEE3005: Reaction Engineering
+              * CHEE3007: Process Modelling and Control
     design:
       columns: '2'
   - block: accomplishments
