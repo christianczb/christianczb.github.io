@@ -60,7 +60,7 @@ tags:
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_slides: ''
+url_slides: 'https://christianczb.github.io/publication/zuluaga-bedoya-2023-b/ISGTCO2-Symposium.pdf'
 url_video:
 
 # Featured image
@@ -70,5 +70,4 @@ image:
   focal_point: ''
   preview_only: false
 
-slides: zuluaga-bedoya-2023-b
 ---
