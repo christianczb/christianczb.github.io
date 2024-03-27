@@ -82,4 +82,4 @@ image:
 
 Image embed:
 
-{{< figure src="/assets/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" title="Chart Banner" >}}
+{{< figure src="/images/tn.png" title="Chart Banner" >}}
