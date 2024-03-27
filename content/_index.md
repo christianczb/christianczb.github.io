@@ -102,7 +102,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 1
       # Filter on criteria
       filters:
         folders:
@@ -127,7 +127,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="zeolites" >}}
     design:
       columns: '1'
   - block: collection
