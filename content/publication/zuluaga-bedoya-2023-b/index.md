@@ -82,4 +82,4 @@ image:
 
 Image embed:
 
-{{< figure src="/images/tn.png" title="Chart Banner" >}}
+{{< figure src="/featured.png" title="Chart Banner" >}}
