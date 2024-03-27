@@ -30,14 +30,18 @@ publication_short: In *ICW*
 
 abstract: Zeolite (MOF) nanomembranes exhibit high separation performances due to their molecular sieving effect associated with precisely sized pores and tuneable frameworks, which makes them attractive for gas separation, carbon capture, and water treatment, among other applications [1]. Although pore characteristics of zeolites (MOFs) are well-defined, challenges pertaining to gas transport resistances within nanosized crystals remain unexplained. Empirical studies linked these transport hindrances to defects within the crystal formation process, resulting in pore obstructions and grain boundaries [2]. However, recent simulation-based investigations have uncovered nonuniform diffusivities and transport resistances persist even in nanometric-sized crystals with ideal surfaces. Although these resistances were initially ascribed to interfacial effects on the boundary layer [3], recent simulations attribute them to slow trajectories and an increased number of collisions within a region of developing flow known as entry length [4]. We study the effect of crystal thickness and framework flexibility on gas diffusion, by comparing a fully flexible system with a rigid-average structure of equivalent window size. Equilibrium Molecular Dynamics (EMD) simulations were used to study the transport of CO2 in ZIF-8 and CH4, H2 in TON nanosheets of different sizes. We also investigated adding polymer layers (6FDA-durene polyimide) on TON bare nanosheets to account for support/both-side coating effects on the excess resistance. Transport is attenuated even in flexible thin nanosheets, despite having enhanced diffusivities compared to the rigid ones. An interplay between vibrating windows and kinetic effects on gas-wall collisions leads to increased diffusivity. Incorporating polymer layers into the nanosheets added extra internal barriers. Ideal selectivity is superior in the coated/supported at a particular crystal length. These results will aid in a better understanding of the transport resistances, guiding the fundamental design of ultrathin membranes for emerging sustainable applications.
 
-tags: [Zeolites, diffusion, nanosheet, adsorption]
+tags: 
+- Zeolites
+- Diffusion
+- Nanosheet
+- Adsorption
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+ links:
+ - name: Event site
    url: https://uqevents.eventsair.com/isgtco2/
 
 url_pdf: ''
