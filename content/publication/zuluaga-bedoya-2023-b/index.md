@@ -59,9 +59,7 @@ tags:
 #   url: https://uqevents.eventsair.com/isgtco2/
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_slides: 'https://christianczb.github.io/publication/zuluaga-bedoya-2023-b/ISGTCO2-Symposium.pdf'
-url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,3 +69,11 @@ image:
   preview_only: false
 
 ---
+{{< rawhtml >}} 
+
+<video width=100% controls autoplay>
+    <source src="/videos/table_of_contents.webm" type="video/webm">
+    Your browser does not support the video tag.  
+</video>
+
+{{< /rawhtml >}}
