@@ -68,12 +68,18 @@ image:
   focal_point: ''
   preview_only: false
 
+
+#{{< rawhtml >}} 
+#
+#<video width=100% controls autoplay>
+#    <source src="/videos/sample.mp4" type="video/mp4">
+#    Your browser does not support the video tag.  
+#</video>
+#
+#{{< /rawhtml >}}
+
 ---
-{{< rawhtml >}} 
 
-<video width=100% controls autoplay>
-    <source src="/videos/table_of_contents.webm" type="video/webm">
-    Your browser does not support the video tag.  
-</video>
+Image embed:
 
-{{< /rawhtml >}}
+{{< figure src="/assets/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" title="Chart Banner" >}}
