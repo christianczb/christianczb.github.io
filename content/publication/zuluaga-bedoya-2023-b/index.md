@@ -70,7 +70,7 @@ image:
 
 ---
 
-{{< /rawhtml >}} 
+{{< rawhtml >}} 
 
 <video width=100% controls autoplay>
     <source src="/videos/sample.mp4" type="video/mp4">
