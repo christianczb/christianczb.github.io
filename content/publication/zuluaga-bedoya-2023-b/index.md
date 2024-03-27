@@ -75,7 +75,7 @@ image:
 {{< rawhtml >}} 
 
 <video width=100% controls autoplay>
-    <source src="/videos/sample.mp4" type="video/mp4">
+    <source src="/videos/polyzeo.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
 
